@@ -1,5 +1,4 @@
 aiohttp~=3.8.5
-bs4~=4.12.2
 cassio
 ibm-watson-machine-learning
 newspaper3k
